@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-
+// 최종
 // 카드는 카드무늬, 카드 숫자, toString을 통해서 카드를 확인할 수 있어야 해.
 // 완료 플레이어는 고유한 닉네임, 돈(초기값 10000원 설정), 승, 패 , static 메서드 이름짓기() 필요 + Scanner로 받기, Card[] 5card = 
 // 완료 딜러는 랭크체크해주고(void ㄴㄴ, String으로 반환해야지 score를 줄수 있음.) , 그 랭크체크한것을 토대로 점수를 줘 (int형으로 반환 rankcheck메서드가 FOURCARD면 5를줘,FLUSH면 4,STRAIGHT면 3, THREECARD면 2 PAIR는 1 NORANK면 0 )  
